@@ -34,3 +34,9 @@ li a {
 
 li a:hover {
   background-color: #111;
+
+.flex-container {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+}
